@@ -1,5 +1,6 @@
 {
   "name": "sonidos",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "c28f22e0",
+  "type": "ionic-angular",
+  "integrations": {}
 }
